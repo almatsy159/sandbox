@@ -105,3 +105,4 @@ sam. 08 nov. 2025 19:12:01 CET
 dim. 09 nov. 2025 15:12:01 CET
 dim. 09 nov. 2025 16:12:01 CET
 lun. 10 nov. 2025 10:12:01 CET
+lun. 10 nov. 2025 11:12:01 CET
