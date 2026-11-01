@@ -2166,3 +2166,4 @@ dim. 01 nov. 2026 20:12:01 CET
 dim. 01 nov. 2026 21:12:01 CET
 dim. 01 nov. 2026 22:12:01 CET
 dim. 01 nov. 2026 23:12:01 CET
+lun. 02 nov. 2026 00:12:01 CET
